@@ -1,0 +1,206 @@
+﻿<courses>
+	<course id="ART 361E">
+		<professor name="Delsemme" />
+		<meeting day="Wednesday">
+		  <time start="15:00" end="16:30" />
+			<room>053</room>
+		</meeting>
+		<remarks>None</remarks>
+	</course>
+
+	<course id="BELG 3002-01">
+		<professor name="Van Meerten" />
+		<meeting day="Tuesday">
+			<time start="16:30" end="18:00" />
+			<room>D2.14</room>
+		</meeting>
+		<meeting day="Wednesday">
+			<time start="13:30" end="15:00" />
+			<room>D2.06</room>
+		</meeting>
+		<remarks>None</remarks>
+	</course>
+	
+	<course id="BELG 3002-02">
+		<professor name="Van Meerten" />
+		<meeting day="Tuesday">
+			<time start="16:30" end="18:00" />
+			<room>D2.14</room>
+		</meeting>
+		<meeting day="Wednesday">
+			<time start="15:00" end="16:30" />
+			<room>D2.06</room>
+		</meeting>
+		<remarks>None</remarks>
+	</course>
+	
+	<course id="BUS 101E">
+		<professor name="Solar" />
+		<meeting day="Wednesday">
+			<time start="10:00" end="11:30" />			
+			<room>D2.14</room>
+		</meeting>
+		<meeting day="Friday">
+			<time start="10:00" end="11:30" />
+			<room>053</room>
+		</meeting>
+		<remarks>None</remarks>
+	</course>
+		
+	<course id="BUS 211E">
+		<professor name="Billingsley" />
+		<meeting day="Monday">
+			<time start="15:00" end="18:00" />
+			<room>E0.04</room>
+		</meeting>
+		<remarks>15 September in room D2.12</remarks>
+	</course>
+
+	<course id="BUS 213E">
+		<professor name="Fairchild" />
+		<meeting day="Tuesday">
+			<time start="08:30" end="11:30" />
+			<room>053</room>
+		</meeting>
+		<remarks>None</remarks>
+	</course>
+
+	<course id="BUS 241E">
+		<professor name="Rambow" />
+		<meeting day="Thursday">
+			<time start="13:30" end="16:30" />
+			<room>E0.12</room>
+		</meeting>
+		<remarks>None</remarks>
+	</course>
+
+	<course id="BUS 302E">
+		<professor name="De Vuyst" />
+		<meeting day="Friday">
+			<time start="08:30" end="11:30" />
+			<room></room>
+		</meeting>
+		<remarks>None</remarks>
+	</course>
+
+	<course id="BUS 321E">
+		<professor name="Branson" />
+		<meeting day="Monday">
+			<time start="10:00" end="13:00" />
+			<room>D2.14</room>
+		</meeting>
+		<remarks>None</remarks>
+	</course>
+
+	<course id="BUS 351E">
+		<professor name="Fairchild" />
+		<meeting day="Thursday">
+			<time start="08:30" end="11:30" />
+			<room>058</room>
+		</meeting>
+		<remarks>First class: September 4</remarks>
+	</course>
+
+	<course id="BUS 391E">
+		<professor name="Bellemans" />
+		<meeting day="Wednesday">
+			<time start="13:30" end="16:30" />
+			<room>BU</room>
+		</meeting>
+		<remarks>First class: September 3</remarks>
+	</course>
+
+	<course id="CMM 101E">
+		<professor name="Bernard" />
+		<meeting day="Monday">
+			<time start="16:30" end="18:00" />
+			<room>051</room>
+		</meeting>
+		<meeting day="Friday">
+			<time start="11:30" end="13:00" />
+			<room>D2.14</room>
+		</meeting>
+		<remarks>None</remarks>
+	</course>
+
+	<course id="CMM 102E">
+		<professor name="Terzis" />
+		<meeting day="Wednesday">
+			<time start="16:30" end="18:00" />
+			<room>051</room>
+		</meeting>
+		<meeting day="Thursday">
+			<time start="16:30" end="18:00" />
+			<room>053</room>
+		</meeting>
+		<remarks>None</remarks>
+	</course>
+
+	<course id="CMM 205E">
+		<professor name="Bernard" />
+		<meeting day="Monday">
+			<time start="15:00" end="16:30" />
+			<room>053</room>
+		</meeting>
+		<meeting day="Friday">
+			<time start="15:00" end="16:30" />
+			<room>050</room>
+		</meeting>
+		<remarks>None</remarks>
+	</course>
+
+	<course id="CMM 242E">
+		<professor name="Zaruk" />
+		<meeting day="Monday">
+			<time start="08:30" end="11:30" />
+			<room>053</room>
+		</meeting>
+		<remarks>None</remarks>
+	</course>
+
+	<course id="CMM 271E">
+		<professor name="Walravens" />
+		<meeting day="Thursday">
+			<time start="08:30" end="11:30" />
+			<room>D2.14</room>
+		</meeting>
+		<remarks>None</remarks>
+	</course>
+
+	<course id="CMM 310E">
+		<professor name="Van Audenhove" />
+		<meeting day="Tuesday">
+			<time start="13:30" end="16:30" />
+			<room>053</room>
+		</meeting>
+		<remarks>None</remarks>
+	</course>
+
+	<course id="CMM 321E">
+		<professor name="Shahin" />
+		<meeting day="Wednesday">
+			<time start="08:30" end="11:30" />
+			<room>053</room>
+		</meeting>
+		<remarks>None</remarks>
+	</course>
+
+	<course id="CMM 345E">
+		<professor name="Bernard" />
+		<meeting day="Monday">
+			<time start="11:30" end="13:00" />
+			<room>053</room>
+		</meeting>
+		<meeting day="Friday">
+			<time start="16:30" end="18:00" />
+			<room>051</room>
+		</meeting>
+		<remarks>None</remarks>
+	</course>
+</courses>
+
+
+
+
+
+

@@ -1,0 +1,111 @@
+﻿<courses>
+	<course id="ART 361E">
+		<name>European Studies</name>
+		<description>A programme of field trips to different European cities with an introductory seminar for each trip. Studies the historical, cultural and economic aspects of each city as well as the country in which it is located. Special emphasis is placed on the history of art and architecture. (All costs for the trips are to be paid by the participants). Offered each semester.</description>
+	</course>
+
+	<course id="BELG 3002-02">
+		<name>BELG 3002-02</name>
+		<description>No description.</description>
+	</course>
+
+	<course id="BELG 3002-01">
+		<name>BELG 3002-01</name>
+		<description>No description.</description>
+	</course>
+
+	<course id="BUS 101E">
+		<name>Introduction to Business</name>
+		<description>Introduces students to the internal organisation of firms and to the legal, economic, political and social environment in which they operate. Aims to show how accounting, finance, marketing, operations, human resources and innovation, all fields that the student will later study, contribute to realising the objectives of the firm. Students also learn how to find and analyse information about businesses. Offered each semester.</description>
+	</course>
+
+	<course id="BUS 211E">
+		<name>Human Resource Management</name>
+		<description>Examines the sub-system of staff planning, recruitment and selection, training and development, position control, audit and evaluation and salary and benefit administration that constitute the human resource function of all organisations. Emphasis is placed on the role of these activities as services and support-control systems. Topics include recruitment and selection, personnel planning, testing employees, training, performance management, compensation, managing labour relations, ethics and fair treatment. Offered annually in fall semester.</description>
+		<prerequisite id="BUS 101E" />
+	</course>
+
+	<course id="BUS 213E">
+		<name>Management of Innovation and Technical Change</name>
+		<description>Provides tools and ways of thinking related to managing and sustaining innovation as a means of creating value. Themes to be addressed include features and characteristics of technological innovation, strategy/structure/environment and innovation, effects of new technology on employees and managers, implications for occupational health and safety, the learning organisation and the culture of change, performance management and intellectual property. Offered annually in fall semester.</description>
+		<prerequisite id="BUS 101E" />
+	</course>
+
+	<course id="BUS 241E">
+		<name>Financial Accounting</name>
+		<description>Provides a comprehensive grounding in the principles of financial accounting, including the underlying concepts and process involved in the preparation of financial statements. Introduces the differences between the accounting principles sanctioned by the International Accounting Standards Committee (IASC) that guide the preparation of financial statements in the EU and the General Accepted Accounting Principles (GAAP) that govern financial statements prepared in the USA. Illustrates how financial statements are used by external decision-makers (creditors, investors) as well as internal decision-makers (managers). Offered annually in fall semester.</description>
+		<prerequisite id="BUS 101E" />
+	</course>
+
+	<course id="BUS 302E">
+		<name>International Business Negotiations</name>
+		<description>Introduces students to some basic concepts of the theory of negotiations while providing hands-on application of such concepts in simulated negotiations of complex international business transactions of a project nature. Also deals with the preparation/analysis of positions and reporting on progress and outcomes. Offered annually in fall semester.</description>
+		<prerequisite id="BUS 101E" />
+	</course>
+
+	<course id="BUS 321E">
+		<name>Finance</name>
+		<description>Focuses on the theory and practice of corporate financing decisions, including the management of working capital, capital structure decisions, dividend policy, cost of financing and long term financing. Offered annually in fall semester.</description>
+		<prerequisite id="MTH 140E" />
+		<prerequisite id="BUS 241E" />
+	</course>
+	
+	<course id="BUS 351E">
+		<name>Virtual Enterprises & Electronic Business</name>
+		<description>Focuses on information systems requirements and management issues relating to the conduct of business over the internet/intranet and on the development and management of virtual enterprises. Topics include web design, electronic commerce and virtual supply chains. Offered annually in fall semester.</description>
+		<prerequisite id="BUS 251E" />
+	</course>
+	
+	<course id="BUS 391E">
+		<name>Corporate Strategy</name>
+		<description>Business capstone course focusing on strategy formulation, implementation and performance. Deals with the identification and analysis of external opportunities and constraints and with the development of internal capabilities in response to these factors. Investigates the main functions of the corporation: products/services, research and development; manufacturing, logistics, marketing, finance/accounting, and human resources. Taught primarily through case studies. Offered annually in fall semester.
+		Prerequisite: third-year standing in the Business major.</description>
+	</course>
+	
+	<course id="CMM 101E">
+		<name>Introduction to Human Communication</name>
+		<description>Allows future communication practitioners to study and comprehend the preliminaries to language as well as to verbal and non-verbal communication. Strong focus on public communication and on the preparation and organisation of public speeches. Studies the nature, components and purposes of human communication. Familiarizes students with the basic theoretical and practical models of various communication courses offered within the major--namely organisational, intercultural and mass communication. Offered annually in fall semester.</description>
+	</course>
+	
+	<course id="CMM 102E">
+		<name>Introduction to Mass Communication</name>
+		<description>Starts with an overview of the uses and functions of mass communication and the history and rise of mass media in modern society. Studies the content and strategy of different types of mass media such as the printed press, radio, television and Internet, as well as the advertising, public relations, music and film industries. Offered annually in fall semester.</description>
+	</course>
+	
+	<course id="CMM 205E">
+		<name>Film: History, Theories, Narration and Scriptwriting</name>
+		<description>Develops and refines writing skills in the audio-visual field. Expands cinematic vocabulary by familiarising students with fundamental film structure and narrative as well as basic film theories and a broad range of genres (including Italian neo-realism, the French nouvelle vague and British social cinema as well as mainstream productions). Analyses the constitutive elements of film narration and explains basic visual techniques. By the end of the course students will have mastered the techniques necessary to provide a professionally written screenplay. Offered annually in fall semester.</description>
+		<prerequisite id="CMM 102E" />
+	</course>
+	
+	<course id="CMM 242E">
+		<name>Corporate Communication & Public Relations</name>
+		<description>Corporate culture is expressed through corporate communications and public relations. This course assesses the tools the communications manager has at his disposal to shape a company's image internally and externally. Particular attention is paid to corporate communication strategy development within perceived cultural narratives, with students researching and assessing the quality and nature of the communication flow within an organisation or company of their choice. Public relations are approached by evaluating numerous case studies and situational analyses. Offered annually in fall semester.</description>
+	</course>
+	
+	<course id="CMM 271E">
+		<name>Intercultural Communication</name>
+		<description>Deals initially with the phenomenon of culture in a broad sense and then moves to different ways of studying culture. Highlights major theoretical issues via a series of short case studies illustrating the difficulty of studying culture, intercultural contact and identity (in all their complexity) in an academic manner. Presents several existing theoretical models to show the theoretical, methodological and practical issues involved in this typically interdisciplinary field and how the issues have been dealt with so far. Offered annually in fall semester.</description>
+		<prerequisite id="CMM 101E" />
+	</course>
+	
+	<course id="CMM 310E">
+		<name>Communication Theories</name>
+		<description>Provides an overview of theoretical models in a number of communication fields and focuses on explanatory theory and empirical research. Students review key authors and publications for the development of communication theory and learn to situate them in their historical context. Students participate in panel discussions where key theories, authors and publications are analysed and possible applications are discussed. Offered annually in fall semester.</description>
+		<prerequisite id="CMM 102E" />
+	</course>
+	
+	<course id="CMM 321E">
+		<name>E-Government and ICT Policies</name>
+		<description>Examines the impact of the new Information and communication technologies (ICTs) on society. Discusses in detail the process of digitisation, and the development of information society policies in Europe, as well as the regulation of ICT content and infrastructure and the new debates on citizen privacy vs. freedom of information and security. Also looks into the future political uses of ICTs, including service delivery (e-government) and public value creation (e-governance), and the parallel developments in the relationship between civil society and the Internet. Offered annually in fall semester.</description>
+		<prerequisite id="CMM 102E" />
+	</course>
+	
+	<course id="CMM 345E">
+		<name>Media Management</name>
+		<description>Mass media represents one of the most dramatically changing growth sectors in the world today. This course gives the opportunity to students to study the unique challenges of managing media organisations in a fast-paced global environment. Focus is on the market analysis, planning, organisation, financial management, promotion, distribution and human resource management of media organisations. Particular emphasis will be placed on the Appreciative Inquiry model as applied to media companies. This course also considers how media companies need to approach the media, stakeholders and the public in a public relations context. Offered biennially in fall semester (2008).</description>
+		<prerequisite id="CMM 102E" />
+	</course>
+	
+</courses>
+
